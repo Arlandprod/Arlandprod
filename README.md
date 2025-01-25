@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arlandprod
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning nextjs (middle)
 - 💞️ I’m looking for job
 - 📫 How to reach me: tg - @gmscpr
 
